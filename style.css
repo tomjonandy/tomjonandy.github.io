@@ -2,7 +2,7 @@ body {
   font-family: 'Titillium Web', sans-serif;
 }
 
-.center {
+div.center {
   text-align: center;
 }
 
@@ -17,4 +17,12 @@ p {
 img {
   display: block;
   margin: auto;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: orange;
 }
