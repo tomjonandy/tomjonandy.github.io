@@ -1,0 +1,15 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1em;
+}
